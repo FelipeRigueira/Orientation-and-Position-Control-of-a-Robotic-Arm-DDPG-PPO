@@ -4,6 +4,6 @@ Link to the video demonstrating the behavior of the UR-5 robotic arm using orien
 
 
 
-Aprendizado por Reforço para o Controle de Orientação e Posição de um Manipulador Robótico
+# Aprendizado por Reforço para o Controle de Orientação e Posição de um Manipulador Robótico
 
 Link para o vídeo que demonstra o comportamento do braço robótico UR-5 utilizando controle de orientação e posição implementado com algoritmos de Aprendizado por Reforço (DDPG e PPO): https://www.youtube.com/watch?v=ZdfEntaDdp0
